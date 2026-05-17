@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favourite Thing</title>
+    <h1><u>My Favourite Pet</u></h1>
+    <p>My Favourite pet is Dog.it is considered as one of the kindest animal</p>
+    <br/>
+    <hr/>
+    <!--food taken by dogs-->
+    <h2>Food for Dogs</h2>
+    <ol>
+        <li>chicken</li>
+        <li>Egg</li>
+        <li>Fish</li>
+        <li>Rice</li>
+    </ol> 
+    <hr/>
+    <h2>Types of Dog</h2>
+    <ul>
+        <li>labrador retriever</li>
+        <li>german shephered</li>
+        <li>golden retriever</li>
+    </ul>
+<h3>Dog Adopting Website</h3>
+<a href = "https://www.juspets.in/" target="_blank"> Dog</a>
+
+</head>
+<body>
+    
+</body>
+</html>
